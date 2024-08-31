@@ -1,0 +1,203 @@
+@keyframes type {
+    0% {
+        content: " |";
+    }
+
+    2% {
+        content: " D|";
+    }
+
+    4% {
+        content: " De|";
+    }
+
+    6% {
+        content: " Dev|";
+    }
+
+    8% {
+        content: " Deve|";
+    }
+
+    10% {
+        content: " Devel|";
+    }
+
+    12% {
+        content: " Develo|";
+    }
+
+    14% {
+        content: " Develop|";
+    }
+
+    16% {
+        content: " Develope|";
+    }
+
+    18% {
+        content: " Developer|";
+    }
+
+    20% {
+        content: " Develope|";
+    }
+
+    22% {
+        content: " Develop|";
+    }
+
+    24% {
+        content: " Develo|";
+    }
+
+    26% {
+        content: " Devel|";
+    }
+
+    27% {
+        content: " Deve|";
+    }
+
+    29% {
+        content: " Dev|";
+    }
+
+    31% {
+        content: " De|";
+    }
+
+    32% {
+        content: " D|";
+    }
+
+    34% {
+        content: " De|";
+    }
+
+    36% {
+        content: " Des|";
+    }
+    
+    38% {
+        content: " Desi|";
+    }
+
+    40% {
+        content: " Desig|";
+    }
+
+    42% {
+        content: " Design|";
+    }
+
+    44% {
+        content: " Designe|";
+    }
+
+    46% {
+        content: " Designer|";
+    }
+
+    48% {
+        content: " Designer|";
+    }
+
+    50% {
+        content: " Designe|";
+    }
+
+    52% {
+        content: " Design|";
+    }
+
+    54% {
+        content: " Desig|";
+    }
+
+    56% {
+        content: " Desi|";
+    }
+
+    57% {
+        content: " Des|";
+    }
+
+    59% {
+        content: " De|";
+    }
+
+    61% {
+        content: " D|";
+    }
+
+    62% {
+        content: " |";
+    }
+
+    64% {
+        content: " l|";
+    }
+
+    66% {
+        content: " la|";
+    }
+
+    68% {
+        content: " lar|";
+    }
+
+    70% {
+        content: " larr|";
+    }
+
+    72% {
+        content: " larry|";
+    }
+    74% {
+        content: " larry d|";
+    }
+    76% {
+        content: " larry da|";
+    }
+    78% {
+        content: " larry dan|";
+    }
+    80% {
+        content: " larry dann|";
+    }
+    82% {
+        content: " larry danni|";
+    }
+    84% {
+        content: " larry dannie|";
+    }
+    86% {
+        content: " larry danniel|";
+    }
+    88% {
+        content: " larry danniels|";
+    }
+    90% {
+        content: " larry danniel|";
+    }
+    92% {
+        content: " larry dannie|";
+    }
+    94% {
+        content: " larry danni|";
+    }
+    95% {
+        content: " larry dann|";
+    }
+    97% {
+        content: " larry dan|";
+    }
+    98% {
+        content: " larry da|";
+    }
+    100% {
+        content: " larry d|";
+    }
+   
+}
